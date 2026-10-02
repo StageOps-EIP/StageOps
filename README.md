@@ -18,7 +18,7 @@ StageOps est composé de plusieurs services indépendants :
 - StageOps-iot-gateway → collecte d’état matériel
 - StageOps-BenchMark → tests de performance
 
-Architecture orientée services avec API centralisée.
+Architecture orientée services avec API centralisée et interfaces Web et Mobile.
 
 ## Modules fonctionnels
 
@@ -32,11 +32,12 @@ Architecture orientée services avec API centralisée.
 
 ## Stack technique
 
-- Node.js
-- PostgreSQL
+- Backend Go / Fiber
+- CouchDB et stratégie offline-first
 - API REST
-- Application mobile cross-platform
-- Architecture modulaire
+- Web React / Vite / React Three Fiber
+- Mobile React Native
+- Architecture polyrepo modulaire
 
 ## Installation globale (dev)
 
@@ -49,3 +50,10 @@ Architecture orientée services avec API centralisée.
 ## Organisation du projet
 
 Ce repository sert de point d’entrée et de documentation globale du système.
+
+- [Méthodologie de travail et utilisation du GitHub Project](METHODOLOGIE_PROJET.md)
+- [GitHub Project StageOps](https://github.com/orgs/StageOps-EIP/projects/2)
+- [Wiki produit et technique](https://github.com/StageOps-EIP/StageOps/wiki)
+- [Répartition des responsabilités](https://github.com/StageOps-EIP/StageOps/wiki/R%C3%A9partition-des-t%C3%A2ches)
+
+Toute fonctionnalité doit être reliée à une issue, un milestone, une modification de code et une page Wiki avant d’être considérée comme terminée.
