@@ -52,6 +52,8 @@ Architecture orientée services avec API centralisée et interfaces Web et Mobil
 Ce repository sert de point d’entrée et de documentation globale du système.
 
 - [Méthodologie de travail et utilisation du GitHub Project](METHODOLOGIE_PROJET.md)
+- [Plan des objectifs complémentaires EIP](OBJECTIFS_COMPLEMENTAIRES.md)
+- [Présentation des objectifs complémentaires](presentations/StageOps_Objectifs_Complementaires.pptx)
 - [GitHub Project StageOps](https://github.com/orgs/StageOps-EIP/projects/2)
 - [Wiki produit et technique](https://github.com/StageOps-EIP/StageOps/wiki)
 - [Répartition des responsabilités](https://github.com/StageOps-EIP/StageOps/wiki/R%C3%A9partition-des-t%C3%A2ches)
