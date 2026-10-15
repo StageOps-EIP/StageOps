@@ -33,7 +33,7 @@ Architecture orientée services avec API centralisée et interfaces Web et Mobil
 ## Stack technique
 
 - Backend Go / Fiber
-- CouchDB et stratégie offline-first
+- CouchDB (serveur) et PouchDB (local Web et Mobile), stratégie offline-first — [état de la migration](https://github.com/StageOps-EIP/StageOps/wiki/Migration-PouchDB-CouchDB)
 - API REST
 - Web React / Vite / React Three Fiber
 - Mobile React Native
