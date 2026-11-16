@@ -1,5 +1,7 @@
 # Plan des objectifs complémentaires — StageOps
 
+> Ce document conserve le cadrage initial. Le suivi actuel des quatre objectifs de la Track Solution, dont l'objectif complémentaire C « Crédibilité et reconnaissance », est dans le [plan d'action Track Solution](PLAN_TRACK_SOLUTION.md).
+
 Ce document formalise les deux objectifs complémentaires retenus pour StageOps et la manière de les réaliser, de les mesurer et de les présenter au jury.
 
 ## Pourquoi ce plan existe

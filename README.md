@@ -53,6 +53,7 @@ Ce repository sert de point d’entrée et de documentation globale du système.
 
 - [Méthodologie de travail et utilisation du GitHub Project](METHODOLOGIE_PROJET.md)
 - [Plan des objectifs complémentaires EIP](OBJECTIFS_COMPLEMENTAIRES.md)
+- [Plan d'action Track Solution — quatre objectifs et preuves attendues](PLAN_TRACK_SOLUTION.md)
 - [Présentation simple des objectifs complémentaires](presentations/StageOps_Objectifs_Complementaires_Simple.pptx)
 - [GitHub Project StageOps](https://github.com/orgs/StageOps-EIP/projects/2)
 - [Wiki produit et technique](https://github.com/StageOps-EIP/StageOps/wiki)
